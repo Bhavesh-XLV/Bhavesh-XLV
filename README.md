@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Agrawal</h1>
+<h1 align="center"> Hi👋, I'm Bhavesh Agrawal</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU">
@@ -27,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavesh-xlv&show_icons=true&locale=en" alt="bhavesh-xlv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavesh-xlv&" alt="bhavesh-xlv" /></p>
+  
