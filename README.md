@@ -3,11 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwC-JaLeSezL_YLCt9_qEcYlVge-Tmyf-Yg&usqp=CAU">
 
-- 🌱 I’m currently learning **React**
+- 💬 Ask me about web and app development.
 
 - 👨‍💻 All of my projects are available at [https://bhaveshagrawal.netlify.app](https://bhaveshagrawal.netlify.app)
-
-- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **bhaveshagrawal123.ba@gmail.com**
 
