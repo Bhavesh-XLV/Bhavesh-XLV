@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://bhaveshagrawalportfolio.netlify.app/](https://bhaveshagrawalportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bhaveshagrawal.netlify.app](https://bhaveshagrawal.netlify.app)
 
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **bhaveshagrawal123.ba@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1f8_9T8hvdoeOCqj0ZMl9WNYL7_CM7c27/view?usp=sharing](https://drive.google.com/file/d/1f8_9T8hvdoeOCqj0ZMl9WNYL7_CM7c27/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iG-_Agy1tStSg6UxomRnFZ7nFY3Asosp/view?usp=share_link](https://drive.google.com/file/d/1iG-_Agy1tStSg6UxomRnFZ7nFY3Asosp/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
